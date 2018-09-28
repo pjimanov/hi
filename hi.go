@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("pipeline")
+	fmt.Println("pipeline add tags")
 }
